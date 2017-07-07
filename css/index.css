@@ -7,7 +7,7 @@
 
 	font-family:'Ostrich Sans Medium';
 	font-size: 30px;
-	height:1080px;
+	padding-bottom: 100px;
 	
 	 overflow: hidden;
 	background-color: #DBDBDB;
@@ -44,8 +44,8 @@
 .aboutme{
 	 font-family:'Ostrich Sans Black';
 	background-color: gold;
-	height:1080px;
-	padding-top:100px;
+	padding-bottom: 200px;
+	
 	 overflow: hidden;
 
 	
@@ -74,8 +74,8 @@
 	
 	font-family:'Ostrich Sans Black';
 	background-color: #D1D1D1;
-	height:1080px;
-	padding-top:100px;
+	
+	padding-bottom: 200px;
 	 overflow: hidden;
 	 color:#4C4C4C;
 
@@ -84,8 +84,8 @@
 .myworks{
 	 
 	background-color: #DBDBDB;
-	padding-bottom:25px;
-	height:1080px;
+	padding-bottom:100px;
+	
 	
 	
 	}
