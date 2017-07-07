@@ -1,11 +1,11 @@
 .font1{
 	
-	font-size: 25px;
+	font-size: 16px;
 }
 
 .header{
 
-	font-family:Ostrich Sans Medium;
+	font-family:'Ostrich Sans Medium';
 	font-size: 50px;
 	height:1080px;
 	
@@ -15,7 +15,7 @@
 
 .header2{
 
-	font-family:Ostrich Sans Medium;
+	font-family:'Ostrich Sans Medium';
 	font-size: 50px;
 
 }
@@ -41,7 +41,7 @@
 }
 
 .aboutme{
-	 font-family:Ostrich Sans Black;
+	 font-family:'Ostrich Sans Black';
 	background-color: gold;
 	height:1080px;
 	padding-top:100px;
@@ -71,7 +71,7 @@
 	
 .myservices{
 	
-	font-family:Ostrich Sans Black;
+	font-family:'Ostrich Sans Black';
 	background-color: #636363;
 	height:1080px;
 	padding-top:100px;
@@ -92,7 +92,7 @@
 	
 .bookme{
 	 
-	font-family:Ostrich Sans Black;
+	font-family:'Ostrich Sans Black';
 		background-color: #636363;
 		height:400px;
 	}
