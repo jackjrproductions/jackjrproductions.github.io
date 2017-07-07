@@ -5,17 +5,19 @@
 
 .header{
 
-	font-family:'Ostrich Sans Medium';
+	font-family:'Oswald', sans-serif;
+	font-weight:100;
 	font-size: 30px;
 	padding-bottom: 100px;
-	
+	padding-top:10px;
 	 overflow: hidden;
 	background-color: #DBDBDB;
 }
 
 .header2{
 
-	font-family:'Ostrich Sans Medium';
+		font-family:'Oswald', sans-serif;
+		font-weight:200;
 	font-size: 50px;
 
 }
@@ -32,7 +34,7 @@
 
 .border2{
     display: block;
-    margin: auto;
+    margin: 2%;
     background-color: white;
 	position:  relative;
 	bottom: -100px;
@@ -42,7 +44,8 @@
 }
 
 .aboutme{
-	 font-family:'Ostrich Sans Black';
+	 font-family:'Oswald', sans-serif;
+	 font-weight:200;
 	background-color: gold;
 	padding-bottom: 200px;
 	
@@ -72,7 +75,8 @@
 	
 .myservices{
 	
-	font-family:'Ostrich Sans Black';
+	font-family:'Oswald', sans-serif;
+	font-weight:200;
 	background-color: #D1D1D1;
 	
 	padding-bottom: 200px;
@@ -82,7 +86,8 @@
 	}
 
 .myworks{
-	 
+	font-family:'Oswald', sans-serif;
+	font-weight:200; 
 	background-color: #DBDBDB;
 	padding-bottom:100px;
 	
@@ -94,7 +99,8 @@
 	
 .bookme{
 	 
-	font-family:'Ostrich Sans Black';
+	font-family:'Oswald', sans-serif;
+	font-weight:200;
 		background-color: #636363;
 		height:400px;
 	}
